@@ -1,0 +1,9 @@
+{
+  "name": "vivesta-desktop-app",
+  "version": "0.0.1",
+  "description": "This application is designed for accommodation providers, pubs, and restaurants in South Africa. It offers full offline capability and seamless data synchronization.",
+  "main": "application.js",
+  "repository": "https://github.com/almac8/vivesta-desktop-app.git",
+  "author": "Aimée MacDonald <aimeelmacdonald@pm.me>",
+  "license": "MIT"
+}
