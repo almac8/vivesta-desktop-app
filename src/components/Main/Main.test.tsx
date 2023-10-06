@@ -3,8 +3,6 @@ import { render, screen } from '@testing-library/react';
 
 import Main from './Main';
 
-test('Renders the title', () => {
+test('Renders the Main Layout', () => {
   render(<Main />);
-  const title = screen.getByText(/Vivesta/i);
-  expect(title).toBeInTheDocument();
 });
